@@ -1,0 +1,12 @@
+{
+  "name": "باينر — مساعد التاجرة الذكي",
+  "short_name": "باينر",
+  "description": "نظام تشغيل متكامل لمشاريع الكيك والحلويات المنزلية: تسعير دقيق، حساب الهدر والربح، منيو تفاعلي، تقويم حجوزات، وفواتير واتساب.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "lang": "ar",
+  "dir": "rtl",
+  "orientation": "portrait-primary"
+}
